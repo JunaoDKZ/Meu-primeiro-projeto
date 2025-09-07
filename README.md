@@ -9,8 +9,8 @@
 </head>
 <body>
     <div>
-        <img src="parque-ilha-bela.jpg" alt="Notebook Lenovo Ideapad S145"
-        title="Notebook Lenovo">
+        <img src="parque-ilha-bela.jpg" alt="projeto01"
+        title="Projeto">
 
 <h1>O lugar ideal para momentos inesquecíveis</h1>
 <p>Fundado em 1992, o Parque Estadual Ilha Bela é o lugar ideal para você 
